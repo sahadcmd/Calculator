@@ -8,7 +8,7 @@
     Let's perform arithmetic operations on numbers
     <br />
     <br />
-    <a href="https://sahadcmd.github.io/Calculator/" target="_blank">View Demo</a>
+    <a href="https://calculator-sahadcmd.vercel.app/" target="_blank">View Demo</a>
     ·
     <a href="https://github.com/sahadcmd/Calculator/issues" target="_blank">Report Bug</a>
     ·
