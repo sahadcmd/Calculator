@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="./main/images/calculator.png" alt="Logo" width="150">
+    <img src="./main/images/calculator.png" alt="Logo" width="50">
 </div>
 
 <h3 align="center">Calculator</h3>
@@ -14,11 +14,12 @@
     ·
     <a href="https://github.com/sahadcmd/Calculator/issues" target="_blank">Request Feature</a>
   </p>
-</div>
 
+## About this project 🚀
+A JavaScript-based calculator: Enables users to perform mathematical operations interactively within a web browser.
 <br>
 
-## Preview
+## How it looks 📷
 
 <div align="center">
  <img src="/main/images/Preview.png">
